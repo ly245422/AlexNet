@@ -18,11 +18,12 @@ You can visualize the result with demo.py.
 ```
 python demo.py
 ```
-## 👀 Contact Me
-If you have any questions, please feel free to email me at [yue@3184@gmail.com](yue@3184@gmail.com).
 
 ## :pushpin: Pretrained Models
 Google Drive: [AlexNet](https://drive.google.com/file/d/1lx1JwOfBZkPKO45KmhCR3GA2fyLsGv6P/view?usp=drive_link)
 
 ## :pushpin: Dataset
 Google Drive: [CardboardDec](https://drive.google.com/file/d/1HkzxTHzUURc7MgWnqgKGpxL3MvoY2K3p/view?usp=drive_link)
+
+## 👀 Contact Me
+If you have any questions, please feel free to email me at [yue@3184@gmail.com](yue@3184@gmail.com).
